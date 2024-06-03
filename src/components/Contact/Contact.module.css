@@ -53,12 +53,14 @@
   }
 
   .text {
+    scale: 80%;
     display: flex;
     flex-direction: column;
     align-items: center;
   }
 
   .links {
-    align-items: center;
+    scale: 60%;
+    margin-right: 100%;
   }
 }

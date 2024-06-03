@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Ordering Webapp",
+    "imageSrc": "projects/project.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
